@@ -7,7 +7,7 @@ This project documents my practical engagement with Microsoft Active Directory a
 <h2>Languages and Utilities Used</h2>
 
 - <b>Remote Desktop Protocol</b> 
-- <b>Active Directory</b>
+- <b>Active Directory Users and Computers</b>
 - <b>Group Policy Management Editor</b>
 - <b>Command Prompt</b>
 
