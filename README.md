@@ -17,13 +17,35 @@ This project documents my practical engagement with Microsoft Active Directory a
 - <b>Windows (Client)</b>
 
 <h2>Project walk-through:</h2>
-<!--
+
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Using the Active Directory Users and Computers (ADUC) console, I performed the following tasks:</b>
+ <br/>
+ <br/>
+ <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+ <b>User Account Creation:</b> I created a new user account, specifying a unique username, full name, and password. This simulated the process of onboarding a new employee.
+ <br />
 <br />
+ <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+ <b>User Property Modification:</b> I modified existing user properties, such as updating a user's department, contact information, and account settings. This demonstrated my ability to perform routine account maintenance.
+  <br />
 <br />
---!>
+ <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+ <b>Group Management:</b> I created new security groups and assigned them descriptive names. I then added the newly created user to these groups, which is a standard procedure for granting permissions and access to network resources.
+  <br />
+<br />
+ <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+ <b>User Lifecycle Management:</b> I practiced disabling and deleting user accounts, which are critical steps for offboarding employees or managing inactive accounts to enhance security.
+  <br />
+<br />
+ <img src="https://imgur.com/x8KgD4Y.png" height="80%" width="80%"/><br/>
+ <b>Group Policy Object (GPO) Examination:</b> I navigated through existing GPOs to see how policies for password requirements, desktop configurations, and software installations are defined.
+ <br />
+<br />
+<b>Conclusion:</b>
+ <br />
+This hands-on experience has equipped me with the practical knowledge to navigate and manage an Active Directory environment. I am comfortable with the core administrative tools and understand the direct impact of my actions on user accounts, groups, and network security.
+
 <!--
  ```diff
 - text in red
