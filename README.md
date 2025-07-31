@@ -22,23 +22,23 @@ This project documents my practical engagement with Microsoft Active Directory a
 <b>Using the Active Directory Users and Computers (ADUC) console, I performed the following tasks:</b>
  <br/>
  <br/>
- <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+ <img src="https://imgur.com/Uce9jX4.png" height="80%" width="80%" /><br/>
  <b>User Account Creation:</b> I created a new user account, specifying a unique username, full name, and password. This simulated the process of onboarding a new employee.
  <br />
 <br />
- <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+ <img src="https://imgur.com/l0aiVa7.png" height="80%" width="80%" /><br/>
  <b>User Property Modification:</b> I modified existing user properties, such as updating a user's department, contact information, and account settings. This demonstrated my ability to perform routine account maintenance.
   <br />
 <br />
- <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+ <img src="https://imgur.com/zPa4PAP.png" height="40%" width="40%" /><br/>
  <b>Group Management:</b> I created new security groups and assigned them descriptive names. I then added the newly created user to these groups, which is a standard procedure for granting permissions and access to network resources.
   <br />
 <br />
- <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+ <img src="https://imgur.com/8XQpCfS.png" height="40%" width="40%" /><br/>
  <b>User Lifecycle Management:</b> I practiced disabling and deleting user accounts, which are critical steps for offboarding employees or managing inactive accounts to enhance security.
   <br />
 <br />
- <img src="https://imgur.com/x8KgD4Y.png" height="80%" width="80%"/><br/>
+ <img src="https://imgur.com/x8KgD4Y.png" height="60%" width="60%"/><br/>
  <b>Group Policy Object (GPO) Examination:</b> I navigated through existing GPOs to see how policies for password requirements, desktop configurations, and software installations are defined.
  <br />
 <br />
